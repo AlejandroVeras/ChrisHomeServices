@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Chris Home Services & More LLC ',
+  description: 'Chris Home Services & More LLC provides quality repairs, maintenance, and remodeling services. Trust our experienced professionals to get the job done right, on budget.',
+  generator: '',
 }
 
 export default function RootLayout({
